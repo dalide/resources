@@ -1,5 +1,5 @@
 # Resources
-A collections of posts, twitters, tutorials, learning materials about data science, machine learning, deep learning, computer science, etc. 
+A collections of posts, twitters, tutorials, learning materials about data science, machine learning, deep learning, computer science, etc. that I have read about. Trying to make it easy for myself to check back some contents. 
 
 
 * [operating systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
