@@ -5,3 +5,4 @@ A collections of posts, twitters, tutorials, learning materials about data scien
 * [operating systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [sorting algorithms](https://brilliant.org/wiki/sorting-algorithms/)
 * [graph representation](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs)
+* [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
