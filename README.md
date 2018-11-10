@@ -10,3 +10,4 @@ A collections of posts, twitters, tutorials, learning materials about data scien
 * [Python Lists and List Manipulation](https://hackernoon.com/python-basics-6-lists-and-list-manipulation-a56be62b1f95)
 * [One of the Markdown Template for Resume](https://mszep.github.io/pandoc_resume/),  will definitely try this in the future. 
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/) -- highly recommended, very detailed basic machine learning knowledge
+* [Great list of resources: data science, visualization, machine learning, big data](https://www.datasciencecentral.com/profiles/blogs/great-list-of-resources-data-science-visualization-machine-learni)
