@@ -11,3 +11,4 @@ A collections of posts, twitters, tutorials, learning materials about data scien
 * [One of the Markdown Template for Resume](https://mszep.github.io/pandoc_resume/),  will definitely try this in the future. 
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/) -- highly recommended, very detailed basic machine learning knowledge
 * [Great list of resources: data science, visualization, machine learning, big data](https://www.datasciencecentral.com/profiles/blogs/great-list-of-resources-data-science-visualization-machine-learni)
+* [Model-Based Machine learning (early access)](http://mbmlbook.com/)
