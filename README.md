@@ -12,3 +12,4 @@ A collections of posts, twitters, tutorials, learning materials about data scien
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/) -- highly recommended, very detailed basic machine learning knowledge
 * [Great list of resources: data science, visualization, machine learning, big data](https://www.datasciencecentral.com/profiles/blogs/great-list-of-resources-data-science-visualization-machine-learni)
 * [Model-Based Machine learning (early access)](http://mbmlbook.com/)
+* [机器学习常见算法分类，算法优缺点汇总](https://blog.csdn.net/YCM1101743158/article/details/70170549)
